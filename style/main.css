@@ -114,9 +114,6 @@ p {
     animation: rubberband 800ms alternate ease-out;
 
 }
-body {
-    height: 3000px;
-}
 .bonusdiv {
     font-size: 40px;
     color: #197372;
